@@ -13,7 +13,7 @@ if(secondAnswer === "follow"){
 On the other side of him, you see a shiny chest of treasure. Another path would 
 lead you away from the dragon altogether. Which path do you take, chest or leave?`)
 if(secondAnswer === "chest"){
-    let thirdAnswer = ("The dragon wakes up and eats you.")
+    let thirdAnswer = window.prompt("The dragon wakes up and eats you.")
 } else if(secondAnswer === "leave"){
     let thirdAnswer = window.prompt("You come across a sword in a lake, upon pikcing it up you awake as if from a dream ruling your own kingdom.")
 }
