@@ -17,7 +17,7 @@ if(thirdAnswer === "chest"){
     let thirdAnswer = ("The dragon wakes up and eats you.")
 }
 else if(thirdAnswer === "leave"){
-    let thirdAnswer = ("You come across a sword in a lake, upon pikcing it up you awake as if from a dream ruling your own kingdom.")
+    let thirdAnswer = window.prompt("You come across a sword in a lake, upon pikcing it up you awake as if from a dream ruling your own kingdom.")
 }
 
 }
