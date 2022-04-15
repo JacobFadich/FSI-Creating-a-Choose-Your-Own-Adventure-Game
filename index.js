@@ -1,6 +1,3 @@
 window.prompt ("Do you head left or right?")
-let answer = window.prompt ("Do you head left or right?")
 let firstAnswer = widnow.prompt ("Do you head left or right?")
-console.log(firstAnswer)
-let firstAnswer = window.prompt ("Do you head left or right?")
-console.log(firstAnswer === "left")
+console.log(firstAnswer === "true")
