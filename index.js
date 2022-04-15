@@ -15,6 +15,6 @@ lead you away from the dragon altogether. Which path do you take, chest or leave
 if(secondAnswer === "chest"){
     let thirdAnswer = window.prompt("The dragon wakes up and eats you.")
 } else if(secondAnswer === "leave"){
-    let thirdAnswer = window.prompt("You come across a sword in a lake, upon pikcing it up you awake as if from a dream ruling your own kingdom.")
+    let thirdAnswer = window.prompt("You come across a sword in a lake, upon picking it up you awake as if from a dream ruling your own kingdom.")
 }
 }
